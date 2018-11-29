@@ -1,6 +1,5 @@
 package com.mydemo.demoapp;
 
-import java.awt.image.RescaleOp;
 import java.io.IOException;
 
 import javax.servlet.RequestDispatcher;
